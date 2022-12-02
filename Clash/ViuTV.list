@@ -11,6 +11,3 @@ DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.tv
 DOMAIN-SUFFIX,viu.now.com
-
-#TVB直播
-IP-CIDR,23.237.10.0/16,-resolve
