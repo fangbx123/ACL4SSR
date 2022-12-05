@@ -1,0 +1,5 @@
+#TVB
+IP-CIDR,23.237.10.0/24,no-resolve
+
+#HKS
+DOMAIN-SUFFIX,zhibo.hkstv.tv
