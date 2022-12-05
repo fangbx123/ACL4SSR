@@ -14,6 +14,3 @@ DOMAIN-SUFFIX,viu.now.com
 
 #J2
 DOMAIN-SUFFIX,cdn.hklive.tv
-
-#TVB
-IP-CIDR,23.237.10.0,no-resolve
