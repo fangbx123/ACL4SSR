@@ -12,8 +12,8 @@ DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.tv
 DOMAIN-SUFFIX,viu.now.com
 
-#now 体育
-DOMAIN-SUFFIX,livetv.dnsfor.me
-
 #J2
 DOMAIN-SUFFIX,cdn.hklive.tv
+
+#TVB
+IP-CIDR,23.237.10.66,no-resolve
