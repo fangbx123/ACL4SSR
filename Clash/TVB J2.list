@@ -1,5 +1,0 @@
-#J2
-DOMAIN-SUFFIX,cdn.hklive.tv
-
-#民视新闻
-IP-CIDR,38.64.72.0/24,no-resolve
